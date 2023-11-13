@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="936d9f25-dba0-4282-860c-a88c30b4e763" name="Changes" comment="Homework 1 updated">
+    <list default="true" id="936d9f25-dba0-4282-860c-a88c30b4e763" name="Changes" comment="Homework 1 Test cases added">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/itacademy/aqa/lesson2/card/impl/CreditCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/itacademy/aqa/lesson2/card/impl/DebitCardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/annakrutiakova/IdeaProjects/AQA_IT-Academy/src/main/java/com/itacademy/aqa/lesson2",
+    "last_opened_file_path": "/Users/annakrutiakova/IdeaProjects/AQA_IT-Academy/src/test/java/com/itacademy/aqa/lesson2/card/impl",
     "onboarding.tips.debug.path": "/Users/annakrutiakova/IdeaProjects/AQA_IT-Academy/src/main/java/org/example/Main.java"
   }
 }]]></component>
@@ -87,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699882141843</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework 1 Test cases added">
+      <created>1699882570174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699882570174</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,7 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Homework 1 updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 updated" />
+    <MESSAGE value="Homework 1 Test cases added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 1 Test cases added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
